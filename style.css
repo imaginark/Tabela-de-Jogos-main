@@ -1,0 +1,122 @@
+.mibr_logo 
+
+{
+    display: flex;
+    width: 85px;
+    height:85px;
+    object-fit: cover;
+    
+    
+}
+
+.textovalorant
+{   
+    
+    text-align: center;
+    color:rgb(255, 255, 255);
+    text-shadow: 10px 0px 0px 0px black;
+
+}
+
+
+
+    table,th,td
+    {
+        border-style: inherit;
+        border:3px solid black;
+        border-collapse: collapse;
+        
+    }
+table {
+    display: table;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    text-indent: initial;
+    unicode-bidi: isolate;
+    border-spacing: 2px;
+}     
+
+    
+
+
+.logo a {
+
+    width: 100%;
+
+}
+
+.loudlogo
+
+{
+    width: 75px;
+    height: 75px;
+
+}
+
+.nrglogo
+
+{
+    width: 75px;
+    height: 75px;
+}
+
+.thieves
+{
+    width: 75px;
+    height: 75px;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    background-color: aliceblue;
+    color: blue;
+   
+
+
+    }
+
+.main {
+    
+    display: flex;
+    justify-content:center;
+  
+
+}
+
+.card {
+    margin: 35px;
+    background-color: rgb(31, 114, 238);
+    width: 350px;
+    height: 450px;
+    border-radius: 10px;
+    box-shadow: 50px;
+    display: flex;
+    justify-content: center;
+    padding: 45px;
+    
+}
+
+.fotoaspas {
+    width: 150px;
+    border-radius: 50%;
+    height: 150px;
+    object-fit: cover;
+
+    
+}
+
+    header{
+        background-color:rgba(1, 19, 77, 0.979);
+        
+    }
+
+    .cabecalho{
+        display: flex;
+        justify-content: flex-start;
+        
+    }
+    
+    
